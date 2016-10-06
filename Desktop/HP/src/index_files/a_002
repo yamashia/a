@@ -1,0 +1,2 @@
+document.write('<script type="text\/javascript">var _userPageInfo = {"fc2_footer_pos":"0","account_name":"yamasia","external_domain":null};' + '\n');
+document.write('<\/script><script src="http:\/\/static.fc2.com\/fc2web\/js\/fc2_web_user_page.js?20150317" charset="UTF-8"><\/script>' + '\n');
